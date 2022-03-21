@@ -2,4 +2,4 @@
 
 ## Notebook 1 sobre Empréstimos
 
-[Notebook1] (lab01/notebook/emprestimo01.ipynb)
+[Notebook1](lab01/notebook/emprestimo01.ipynb)

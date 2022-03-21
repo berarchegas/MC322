@@ -1,5 +1,5 @@
 # Aluno
-* `<Bernardo Panka Archegas RA 246970>`
+* `Bernardo Panka Archegas RA 246970`
 
 # Curso
-* `<Engenharia de Computação>`
+* `Engenharia de Computação`

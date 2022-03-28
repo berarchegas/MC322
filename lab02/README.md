@@ -1,3 +1,3 @@
 ## Notebook do lab02
 
-[Notebook](notebook/lab02)
+[Notebook](notebook/lab02.ipynb)

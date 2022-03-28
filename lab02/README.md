@@ -1,3 +1,3 @@
 ## Notebook do lab02
 
-<Notebook>
+[Notebook](notebook/lab02)

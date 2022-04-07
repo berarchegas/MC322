@@ -1,3 +1,5 @@
+package pt.c02oo.s02classe.s03lombriga;
+
 public class AquarioLombriga {
     int tam_a, tam_l, pos, dir;
     
@@ -9,8 +11,14 @@ public class AquarioLombriga {
     }
     
     void crescer() {
-        if (this.pos + this.tam_l <= this.tam_a)
-            this.tam_l++;
+    	if (this.dir == 0) {
+    		if (this.pos + this.tam_l <= this.tam_a)
+    			this.tam_l++;
+    	}
+    	else {
+    		if (this.pos > 1)
+    			this.tam_l++;
+    	}
     }
 
     void virar() {

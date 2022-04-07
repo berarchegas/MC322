@@ -1,4 +1,4 @@
-public class AppLab03 {
+public class AppLombriga {
     public static void main(String args[]) {
         Animacao anima = new Animacao("080403MCMVM");
 

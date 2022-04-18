@@ -1,3 +1,3 @@
-## Arquivos Java sobre Lombriga no Aquário
+## Arquivos Java sobre Jogo Resta Um
 
-[Lombriga](src/pt/c02oo/s03relacionamento/s04restaum)
+[RestaUm](src/pt/c02oo/s03relacionamento/s04restaum)
